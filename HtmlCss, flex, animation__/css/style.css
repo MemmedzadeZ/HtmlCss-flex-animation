@@ -1,0 +1,75 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  color: #2d2d2d;
+}
+
+.navTemp {
+  justify-content: center;
+  display: flex;
+  font-family: "Epilogue";
+}
+
+.divTemp {
+  justify-content: center;
+  display: flex;
+}
+
+.mainFundam {
+  font-family: "Epilogue";
+  color: #2d2d2d;
+}
+
+.mainsection {
+  justify-content: center;
+  display: flex;
+}
+
+.divText {
+  white-space: pre-wrap;
+}
+
+.btnContant {
+  size: 20px;
+  line-height: 30px;
+  align-items: center;
+  width: 211px;
+  height: 78px;
+  padding: 24px, 64px, 24px, 64px;
+  gap: 10px;
+  background-color: #2d2d2d;
+  color: white;
+}
+
+.sectionLogo {
+  display: flex;
+  justify-content: center;
+}
+
+.sectionRectangle {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.div19 {
+  padding: 64px, 42px, 64px, 42px;
+  gap: 42px;
+  align-items: center;
+}
+
+.h2text {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sectionImage {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.footerFundam {
+  display: flex;
+  justify-content: center;
+}
